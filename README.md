@@ -22,6 +22,7 @@ Define project objectives and analysis requirements.
 Review the quality and consistency of the work.
 Integrate all project components into the final dashboard.
 Ensure the project meets its goals and deadlines.
+
 2. Ahmed Badr Ali Mohamed — Data Collection & Cleaning
 Responsibilities:
 
@@ -30,6 +31,7 @@ Identify missing values, duplicates, and inconsistent data.
 Clean and prepare the data for analysis.
 Ensure data quality and reliability.
 Document the data preparation process.
+
 3. Ali Abdelmonem Abdelhamid Aref — Exploratory Data Analysis (EDA)
 Responsibilities:
 
@@ -38,6 +40,7 @@ Calculate descriptive statistics.
 Identify trends, patterns, and relationships.
 Generate preliminary insights from the data.
 Support the selection of relevant KPIs.
+
 4. Mazen Tarek Mohamed Ahmed Khadr — Data Analysis & Visualization
 Responsibilities:
 
@@ -46,6 +49,7 @@ Identify important metrics and performance indicators.
 Create charts and graphs to communicate findings.
 Compare trends and highlight significant patterns.
 Provide analytical insights to support dashboard development.
+
 5. Mohamed Akmal Amin Mohamed — Dashboard Development & Reporting
 Responsibilities:
 
